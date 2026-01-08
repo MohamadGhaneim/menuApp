@@ -1,0 +1,7 @@
+{
+  "images": [
+    { "imagePath": "assets/images/offer_1.png" },
+    { "imagePath": "assets/images/offer_2.png" },
+    { "imagePath": "assets/images/offer_3.png" }
+  ]
+}

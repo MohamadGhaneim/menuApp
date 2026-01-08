@@ -1,0 +1,26 @@
+[
+  {
+    "description": "Salads",
+    "imagePath": "assets/images/offer_1.png"
+  },
+  {
+    "description": "Soups",
+    "imagePath": "assets/images/offer_2.png"
+  },
+  {
+    "description": "Main Courses",
+    "imagePath": "assets/images/offer_3.png"
+  },
+  {
+    "description": "Desserts",
+    "imagePath": "assets/images/offer_1.png"
+  },
+  {
+    "description": "Beverages",
+    "imagePath": "assets/images/offer_2.png"
+  },
+  {
+    "description": "Chef Specials",
+    "imagePath": "assets/images/offer_3.png"
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "product": [
+    {
+      "imagePath": "assets/images/chef.png",
+      "title": "Margherita Pizza",
+      "description": "Classic pizza with tomato, mozzarella, and basil.",
+      "price": 12.5,
+      "oldPrice": 15
+    },
+    {
+      "imagePath": "assets/images/chef.png",
+      "title": "Beef Burger",
+      "description": "Juicy beef patty with lettuce, tomato, and cheddar cheese.",
+      "price": 10,
+      "oldPrice": 0
+    },
+    {
+      "imagePath": "assets/images/chef.png",
+      "title": "Salmon Sushi",
+      "description": "Fresh salmon slices over seasoned rice.",
+      "price": 15,
+      "oldPrice": 18
+    },
+    {
+      "imagePath": "assets/images/chef.png",
+      "title": "Cappuccino",
+      "description": "Rich espresso with steamed milk foam.",
+      "price": 4.5,
+      "oldPrice": 0
+    },
+    {
+      "imagePath": "assets/images/chef.png",
+      "title": "Greek Salad",
+      "description": "Fresh vegetables with feta cheese and olives.",
+      "price": 7.5,
+      "oldPrice": 8.5
+    }
+  ]
+}
